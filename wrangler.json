@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "tresore",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "042947ad-fb7a-4cd5-bfdb-aa2a5d6ab02d",
+      "database_name": "tresore"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
